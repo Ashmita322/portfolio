@@ -1,0 +1,5 @@
+# portfolio
+This is the second portfolio website which I have made using html and css.
+This is the home page.
+![home](https://github.com/Ashmita322/portfolio/assets/140899947/54b17bab-bb43-4a7a-9bf0-9977b538a354)
+This is the about page.
