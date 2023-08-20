@@ -6,3 +6,5 @@ This is the about page.
 ![about](https://github.com/Ashmita322/portfolio/assets/140899947/12784753-2230-49d3-95d8-4d3969b70e7d)
 This is skill page.
 ![skill](https://github.com/Ashmita322/portfolio/assets/140899947/e7845ba3-74cf-49f9-b4d3-d2825724d2c5)
+This is the education page.
+![education](https://github.com/Ashmita322/portfolio/assets/140899947/9b6fef58-4037-4118-b833-cbb62775bf2a)
