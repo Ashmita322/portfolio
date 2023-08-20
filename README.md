@@ -8,3 +8,5 @@ This is skill page.
 ![skill](https://github.com/Ashmita322/portfolio/assets/140899947/e7845ba3-74cf-49f9-b4d3-d2825724d2c5)
 This is the education page.
 ![education](https://github.com/Ashmita322/portfolio/assets/140899947/9b6fef58-4037-4118-b833-cbb62775bf2a)
+This is contact me anf footer.
+![contact and footer](https://github.com/Ashmita322/portfolio/assets/140899947/59a8783d-2888-4a83-b1f2-95a4af1d03ce)
